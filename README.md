@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/github/v/release/zsjstart/Stealthy-uRPF-Attack)](https://github.com/zsjstart/Stealthy-uRPF-Attack/releases/tag/v1.0.0)
+
 # Stealthy-uRPF-Attack
 
 IP spoofing is a widely used technique in various cyberattacks, including Denial-of-Service (DoS) attacks. Unicast Reverse Path Forwarding (uRPF), a standardized method for Source Address Validation (SAV), is considered a promising solution for mitigating IP-spoofing-based threats and enhancing Internet security. However, its implementation introduces vulnerabilities that adversaries can exploit.
